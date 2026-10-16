@@ -11,7 +11,7 @@
 - 🎓 6th-semester BSCS student at COMSATS University, Sahiwal
 - 💼 Intern at COMSATS Software House: **[TODO: your role, what you built, tech used]**
 - 🔭 Building full-stack MERN apps, ML models and mobile apps with Flutter
-- 📫 Email: ssarizvi.003@gmail.com · [LinkedIn](https://linkedin.com/in/syed-saif-ali)
+- 📫 Email: ssarizvi.003@gmail.com · [LinkedIn](https://www.linkedin.com/in/saif-ali-217150374/)
 
 ## 🛠️ Tech stack
 <p>
